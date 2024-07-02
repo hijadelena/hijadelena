@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
----
+---------------------
 
-### Lucia Trujillo ✨ 
+### im Lucia Trujillo ✨ 
 **User Experience Designer | Data Enthusiast**
 
 #### About Me
@@ -21,6 +20,5 @@ Hello! I'm Lucia Trujillo, a User Experience Designer with a growing passion for
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucia-trujillo/)  
 - 📂 [GitHub](https://github.com/luciatrujillo)
 
----
--->
-
+#### Portfolio
+Explore my UX portfolio: [Lucia Trujillo UX Portfolio](https://luciatrujillo.framer.website/)

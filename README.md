@@ -1,16 +1,28 @@
 ## Hi there 👋
 
 <!--
-**hijadelena/hijadelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Lucia Trujillo ✨ 
+**User Experience Designer | Data Enthusiast**
+
+#### About Me
+Hello! I'm Lucia Trujillo, a User Experience Designer with a growing passion for data analysis and Python. Currently pursuing in Big Data, I integrate UX expertise with data science skills to develop user-centric and effective solutions.
+
+#### Skills
+
+📊 Data Analysis  
+🎨 UX/UI Design  
+🖌️ Figma  
+🔍 Problem Solver  
+🎯 Design Thinking
+
+#### Connect With Me
+🔗 [LinkedIn](https://www.linkedin.com/in/lucia-trujillo/)  
+📂 [GitHub](https://github.com/luciatrujillo)
+
+---
+
+
 -->

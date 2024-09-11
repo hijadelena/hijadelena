@@ -18,7 +18,7 @@ Hello! I'm Lucia Trujillo, a User Experience Designer with a growing passion for
 
 #### Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucia-trujillo/)  
-- 📂 [GitHub](https://github.com/luciatrujillo)
+
 
 #### Portfolio
-Explore my UX portfolio: [Lucia Trujillo UX Portfolio](https://luciatrujillo.framer.website/)
+Explore my UX portfolio: [Lucia Trujillo UX Portfolio](https://portfolioluciatrujillo.framer.website/)
